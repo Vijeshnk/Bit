@@ -1,0 +1,11 @@
+
+
+{
+    "apps/to-do": {
+        "scope": "pws1.to-do",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "tasks-scope/apps/to-do"
+    },
+    "$schema-version": "15.0.0"
+}
